@@ -1,0 +1,18 @@
+.nav-wrapper {
+    background-color:#274239;
+}
+
+a#save {
+    margin-left: 10px;
+}
+
+.card-action a {
+    color: black !important;
+}
+body {
+    background-image: url("../images/stardust.png");
+}
+
+.delete-button {
+    margin-left: 10px;
+}
